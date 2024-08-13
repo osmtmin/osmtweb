@@ -11,7 +11,7 @@ div img{
 .fixed{
   position: fixed;
   right:100px;
-  bottom:100px;
+  bottom:120px;
 }
 .fixed:hover{
   opacity:0.8;
